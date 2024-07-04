@@ -1,8 +1,8 @@
 
 How to run:
 ``` 
-bash npm install next
+npm install next
 ```
 ``` 
-bash npm run dev
+npm run dev
 ```
